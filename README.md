@@ -1,0 +1,1 @@
+NLP Spacy model for name entity recognition like Org, email, first,last names, contact details and address (incl post code)
